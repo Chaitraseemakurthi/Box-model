@@ -1,0 +1,399 @@
+
+    
+  body{
+    background-color: black;
+}
+.A{
+    padding:60px 150px;
+    background-color:pink;
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    
+
+}
+input{
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+.B{
+    padding:60px 150px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+}
+.C{
+    padding:60px 180px;
+    background-color:rgba(245, 245, 245, 0.863);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;  
+}
+.D{
+    padding:60px 200px;
+    background-color:rgb(40, 132, 130);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;  
+}
+.E{
+  padding:60px 70px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;  
+  }
+.F{
+  padding:60px 120px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;  
+     }
+.G{
+  padding:20px 250px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+} 
+.H{
+  padding:20px 260px;
+  background-color:rgba(251, 255, 192, 0.922);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}  
+
+ .I{
+  padding:20px 90px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.J{
+  padding:20px 80px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.K{
+  padding:20px 70px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.L{
+  padding:20px 90px;
+  background-color:rgba(251, 255, 192, 0.922);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.M{
+  padding:20px 80px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.N{
+  padding:20px 90px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+    .O{
+      padding:20px 70px;
+      background-color:rgba(251, 255, 192, 0.922);
+      margin: 30px;
+      display: inline-block;
+      text-align: center;
+      border-radius:10px;
+    }
+    .P{
+      padding:20px 90px;
+      background-color:pink;
+      margin: 30px;
+      display: inline-block;
+      text-align: center;
+      border-radius:10px;
+    }
+    .Q{
+      padding:20px 80px;
+      background-color:rgba(251, 255, 192, 0.922);
+      margin: 30px;
+      display: inline-block;
+      text-align: center;
+      border-radius:10px;
+    }
+    .R{
+      padding:20px 80px;
+      background-color:rgb(77, 138, 173);
+      margin: 30px;
+      display: inline-block;
+      text-align: center;
+      border-radius:10px;
+}
+.S{
+  padding:20px 80px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+  }
+  .T{
+    padding:20px 60px;
+    background-color:rgba(245, 245, 245, 0.863);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .U{
+    padding:20px 80px;
+    background-color:rgb(77, 138, 173);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .V{
+    padding:20px 60px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .W{
+    padding:20px 30px;
+    background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+    
+  }
+  .X{
+    padding:20px 80px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+  }
+  .Y{
+    padding:20px 70px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .Z{
+    padding:20px 80px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+  }
+  .a{
+    padding:20px 50px;
+    background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+  }
+  .b{
+    padding:20px 80px;
+    background-color:rgba(245, 245, 245, 0.863);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .c{
+    padding:20px 70px;
+    background-color:rgb(77, 138, 173);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .d{
+    padding:20px 70px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .e{
+    padding:20px 80px;
+    background-color:rgba(245, 245, 245, 0.863);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .f{
+    padding:20px 60px;
+    background-color:pink;
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .g{
+    padding:20px 70px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .h{
+    padding:20px 80px;
+    background-color:rgb(77, 138, 173);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .i{
+    padding:20px 40px;
+    background-color:pink;
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .j{
+    padding:20px 80px;
+    background-color:rgba(245, 245, 245, 0.863);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .k{
+    padding:20px 50px;
+    background-color:rgb(77, 138, 173);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+  .l{
+    padding:20px 50px;
+    background-color:rgba(251, 255, 192, 0.922);
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius:10px;
+  }
+ .m{
+  padding:20px 20px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+ }
+ .n{
+  padding:20px 40px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+ }
+ .o{
+  padding:20px 70px;
+  background-color:rgba(251, 255, 192, 0.922);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+ }
+ .p{
+  padding:20px 30px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+ }
+
+.q{
+  padding:20px 60px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.r{
+  padding:20px 50px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.s{
+  padding:20px 230px;
+  background-color:rgb(77, 138, 173);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+} 
+.t{
+  padding:20px 40px;
+  background-color:pink;
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.u{
+  padding:20px 150px;
+  background-color:rgba(251, 255, 192, 0.922);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
+.v{
+  padding:20px 130px;
+  background-color:rgba(245, 245, 245, 0.863);
+  margin: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius:10px;
+}
